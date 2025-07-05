@@ -1,0 +1,2 @@
+node --version  # Should show v18.x or higher
+npm --version   # Should show 9.x or higher
